@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inspiring people</string>
+    
+    <string name="fragment_people_list">Inspiring people</string>
+    <string name="fragment_person_details">Person details</string>
+    <string name="fragment_new_person">New person</string>
+
+    <string name="hint_person_name">Name</string>
+    <string name="hint_person_birthday">Birthday</string>
+
+    <string name="save_person">Save person</string>
+</resources>
